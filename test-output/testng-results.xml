@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-14T22:57:22 PDT" name="LoginTestSuite" finished-at="2025-04-14T22:57:32 PDT" duration-ms="10076">
+    <groups>
+    </groups>
+    <test started-at="2025-04-14T22:57:22 PDT" name="LoginTests" finished-at="2025-04-14T22:57:32 PDT" duration-ms="10076">
+      <class name="practiseWithGpt.testNG_Login">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:practiseWithGpt.testNG_Login@3c41ed1d]" started-at="2025-04-14T22:57:22 PDT" name="setUp" finished-at="2025-04-14T22:57:25 PDT" duration-ms="3311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="negativeInvalidPwd()[pri:0, instance:practiseWithGpt.testNG_Login@3c41ed1d]" started-at="2025-04-14T22:57:25 PDT" name="negativeInvalidPwd" finished-at="2025-04-14T22:57:26 PDT" duration-ms="538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negativeInvalidPwd -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:practiseWithGpt.testNG_Login@3c41ed1d]" started-at="2025-04-14T22:57:26 PDT" name="tearDown" finished-at="2025-04-14T22:57:26 PDT" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:practiseWithGpt.testNG_Login@3c41ed1d]" started-at="2025-04-14T22:57:26 PDT" name="setUp" finished-at="2025-04-14T22:57:28 PDT" duration-ms="2071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="negativeInvalidUser()[pri:0, instance:practiseWithGpt.testNG_Login@3c41ed1d]" started-at="2025-04-14T22:57:28 PDT" name="negativeInvalidUser" finished-at="2025-04-14T22:57:29 PDT" duration-ms="600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negativeInvalidUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:practiseWithGpt.testNG_Login@3c41ed1d]" started-at="2025-04-14T22:57:29 PDT" name="tearDown" finished-at="2025-04-14T22:57:29 PDT" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:practiseWithGpt.testNG_Login@3c41ed1d]" started-at="2025-04-14T22:57:29 PDT" name="setUp" finished-at="2025-04-14T22:57:31 PDT" duration-ms="2147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="positiveLoginTest()[pri:0, instance:practiseWithGpt.testNG_Login@3c41ed1d]" started-at="2025-04-14T22:57:31 PDT" name="positiveLoginTest" finished-at="2025-04-14T22:57:32 PDT" duration-ms="830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positiveLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:practiseWithGpt.testNG_Login@3c41ed1d]" started-at="2025-04-14T22:57:32 PDT" name="tearDown" finished-at="2025-04-14T22:57:32 PDT" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- practiseWithGpt.testNG_Login -->
+    </test> <!-- LoginTests -->
+  </suite> <!-- LoginTestSuite -->
+</testng-results>
